@@ -1,0 +1,1345 @@
+
+h1 {
+    padding-left: 130px;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+ #containerheader div {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    justify-content: baseline;
+    padding-right: 390px;
+    margin-top: -58px; 
+    align-items: flex-end;
+} 
+
+#containerheader div button:first-child {
+    font-size: 22px;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: hidden;
+    color: rgb(129, 129, 131);
+    order: 3;
+} 
+
+#containerheader div button:nth-child(2) {
+    font-size: 22px;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: hidden;
+    color: rgb(129, 129, 131);
+    order: 2;
+} 
+
+#containerheader div button:nth-child(3) {
+    font-size: 22px;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: hidden;
+    color: rgb(129, 129, 131);
+    order: 1;
+} 
+
+#containerheader div:nth-child(2) {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    justify-content: baseline;
+    padding-right: 125px;
+    margin-top: -39px; 
+}
+
+#containerheader div:nth-child(2) button:first-child {
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.699);
+    border-radius: 30px;
+    border-color: rgba(0, 0, 0, 0.418);
+    border-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 35px;
+    font-style: unset;
+    border-width: 2px;
+    width: 183px;
+    margin-bottom: 7px;
+}
+
+#containerheader div:nth-child(2) img:first-child {
+    border-radius: 100px;
+    border-color: rgba(173, 12, 12, 0.274);
+    border-style: solid;
+    height: 35px;
+    margin-top: -3px;
+    border-width: 1px;
+    width: 100%; 
+    margin-top: 5px;
+}
+
+#containerheader div:nth-child(3) :first-child {
+    width: 1900px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.075);
+    position: absolute;
+    top: 75px;
+    box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.027);
+    left: 0px;
+}    
+
+h2 {
+   margin-top: 150px;
+   display: flex;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14px;
+   color: rgba(0, 0, 0, 0.925);
+   font-weight: bolder;
+   gap: 30px;
+   margin-left: 140px;
+   margin-top: 135px;
+   font-weight: bold;
+}
+h2 span{
+    color: rgba(148, 143, 143, 0.904);
+    
+ }
+
+#containerbody {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+    padding-right: 290px;
+    margin-top: -70PX;
+}
+
+#containerbody div:first-child i:first-child {
+   font-size: 45px;
+   position: absolute;
+   right: 335px;
+   top: 115px;
+
+}
+
+#containerbody div:first-child i:nth-child(2) {
+    color: rgba(129, 129, 131, 0.877);
+    font-size: 20px;
+    font-weight: lighter;
+    padding-top: -10px;
+    position: absolute;
+    right: 312px;
+    top: 125px;
+ }
+ 
+ #containerbody div:first-child i:nth-child(3) {
+    position: absolute;
+    font-size: 28px;
+    top: 125px;
+    right: 278px;
+    color: rgb(108, 173, 247);
+}
+#containerbody div:nth-child(2) {
+    font-size: 18px;
+    padding-top: 60px;
+    position: absolute;
+    width: 360px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: 155px;
+    font-style: normal;
+    color: rgba(0, 0, 0, 0.699);
+    text-align: center;
+}
+
+#containerbody div:nth-child(3) button:first-child {
+    font-size: 20px;
+    margin-top: 115px;
+    position: absolute;
+    right: 155px;
+    color: rgb(108, 173, 247);
+    border: transparent;
+    background-color:rgba(255, 255, 255, 0) ;
+    margin-right: 236px;
+
+}
+#containerbody div:nth-child(3) button:nth-child(2) {
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.699);
+    border-radius: 30px;
+    border-color: rgba(0, 0, 0, 0.418);
+    border-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 37px;
+    font-style: normal;
+    border-width: 1px;
+    width: 220px;
+    margin-top: 110px;
+    margin-right: -85px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#containerbody div:nth-child(4) {
+    font-style: normal;
+    font-size: 15px;
+    margin-right: -15px;
+    margin-top: 12px;
+}
+
+.link a {
+    color: rgb(139, 136, 136);
+    
+}
+ 
+#containerbody div:last-child :first-child {
+    width: 1px;
+    height: 1000px;
+    background-color: rgba(0, 0, 0, 0.062);
+    position: absolute;
+    left: 1320px;
+    top: 75px;
+}
+
+#anotherlines div:first-child {
+    width: 400px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.062);
+    position: absolute;
+    left: 1380px;
+    top:350px;
+}
+
+#anotherlines div:nth-child(2) {
+    width: 1110px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.062);
+    position: absolute;
+    left: 130px;
+    top: 180px
+}
+
+#anotherlines div:nth-child(3) {
+    width: 200px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.822);
+    position: absolute;
+    left: 275px;
+    top: 180px
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    margin-left: 1380px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.747);
+    padding-top: 57px;
+    font-weight: bolder;
+    margin-top: -530px;
+}
+
+#containertopics div {
+    display: flex;
+    flex-direction: initial;
+    justify-content: flex-start;
+    align-items: baseline;
+    align-content: center;
+    margin-left: 1382px;
+    gap: 10px;
+}
+
+#containertopics div:first-child button:first-child {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 120px;
+    border-color: transparent;
+}
+
+#containertopics div:first-child button:nth-of-type(2) {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 85px;
+    border-color: transparent;
+}
+
+#containertopics div:first-child button:nth-of-type(3) {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 100px;
+    border-color: transparent;
+}
+
+#containertopics div:nth-child(2) button:first-child {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 120px;
+    border-color: transparent;
+    margin-top: 10px;
+}
+
+#containertopics div:nth-child(2) button:nth-of-type(2) {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 120px;
+    border-color: transparent;
+}
+
+#containertopics div:nth-child(3) button:first-child {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 120px;
+    border-color: transparent;
+    margin-top: 10px;
+}
+
+#containertopics div:nth-child(3) button:nth-of-type(2) {
+    border: solid;
+    font-size: 16px;
+    border-radius: 30px;
+    height: 38px;
+    width: 50px;
+    border-color: transparent;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    margin-left: 1380px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.747);
+    padding-top: 57px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-top: 2px;
+}
+
+#followers div {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: start;
+    align-content: normal;
+    gap: 5px;
+    margin-right: 333px;
+    margin-top: 10px;
+}
+
+#followers div:first-child button:first-child{
+    border-color: rgba(173, 12, 119, 0.274);
+    border-radius: 150px;
+    background-color: transparent;    
+    border-style: solid;
+    height: 50px;
+    overflow: hidden;
+    border-width: 1px;
+    width: 50px;
+}
+
+#followers div:first-child button:nth-of-type(2){
+    border-color: transparent;
+    background-color: transparent; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.747);
+    font-weight: bolder;  
+}
+
+#followers div:first-child p {
+    border-color: transparent;
+    background-color: transparent; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter;  
+    position: absolute;
+    width: 230px;
+    right: 230px;
+    padding-top: 10px;
+}
+
+#followers div:nth-child(2) button:first-child{
+    border-color: rgba(99, 96, 99, 0.274);
+    border-radius: 150px;
+    background-color: transparent;    
+    border-style: solid;
+    height: 50px;
+    overflow: hidden;
+    border-width: 1px;
+    width: 50px;
+    margin-top: 20px;
+}
+
+#followers div:nth-child(2) button:nth-of-type(2){
+    border-color: transparent;
+    background-color: transparent; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.747);
+    font-weight: bolder; 
+    margin-top: 20px; 
+    margin-right: 25px;
+}
+
+#followers div:nth-child(2) p {
+    border-color: transparent;
+    background-color: transparent; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter;  
+    position: absolute;
+    width: 230px;
+    right: 230px;
+    padding-top: 10px;
+    margin-top: 33px;
+}
+
+#followers div:nth-child(3) button:first-child{
+    border-color: rgba(253, 54, 19, 0.274);
+    border-radius: 150px;
+    background-color: transparent;    
+    border-style: solid;
+    height: 50px;
+    overflow: hidden;
+    border-width: 1px;
+    width: 50px;
+    margin-top: 20px;
+}
+
+#followers div:nth-child(3) button:nth-of-type(2){
+    border-color: transparent;
+    background-color: transparent; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.747);
+    font-weight: bolder; 
+    margin-top: 20px; 
+    margin-right: 25px;
+}
+
+#followers div:nth-child(3) p {
+    border-color: transparent;
+    background-color: transparent; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter;  
+    position: absolute;
+    width: 230px;
+    right: 230px;
+    padding-top: 10px;
+    margin-top: 33px;
+}
+
+#buttonsfollows nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: start;
+    align-content: normal;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+#buttonsfollows nav:first-child button:first-child   {
+    border: solid;
+    font-size: 16px;
+    border-radius: 47px;
+    height: 35px;
+    width: 70px;
+    border-color: rgba(0, 0, 0, 0.589);
+    background: transparent;
+    border-width: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -245px;
+}
+
+#buttonsfollows nav:nth-child(2) button:first-child   {
+    border: solid;
+    font-size: 16px;
+    border-radius: 47px;
+    height: 35px;
+    width: 70px;
+    border-color: rgba(0, 0, 0, 0.589);
+    background: transparent;
+    border-width: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -217px;
+}
+
+#buttonsfollows nav:nth-child(3) button:first-child   {
+    border: solid;
+    font-size: 16px;
+    border-radius: 47px;
+    height: 35px;
+    width: 70px;
+    border-color: rgba(0, 0, 0, 0.589);
+    background: transparent;
+    border-width: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -187px;
+}
+
+#containerbody2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: first baseline;
+    align-items: flex-start;
+    margin-left: 130px;
+    margin-top: -100px;
+}
+
+h5 button {
+    border-color: transparent;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    width: 830px;
+    text-align: left;
+}
+
+#imagencontainer section img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 135px;
+    width: 13%;
+    position: absolute;
+    right: 660px; 
+    top: 230px;
+}
+
+#containerbody2 div:first-child { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: -20px;
+    margin-left: 37px;
+}
+#containerbody2 div span:first-child { 
+    color: rgb(91, 92, 92);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+#containerbody2 div:nth-child(3) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter; 
+    width: 800px;
+    margin-top: -22px;
+    margin-left: 7px;
+    text-align: left;
+    font-size: large;
+}
+
+#containerbody2 div:nth-child(4) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#containerbody2 ul li { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+#containerbody2 ul li:first-child { 
+    top: 373px;
+    left: 220px;
+}
+
+#containerbody2 ul li:nth-child(2) { 
+    top: 371px;
+    left: 340px;
+    background-color: rgba(212, 209, 209, 0.397);
+    border: solid;
+    border-radius: 25px;
+    border-color: transparent;
+}
+
+#containerbody2 ul li:nth-child(3) { 
+    top: 373px;
+    left: 420px;
+}
+
+#containerbody2 mark button { 
+    font-size: 20px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    border: transparent;
+    background-color: transparent;
+    left: 915px;
+    top: 373px;
+}
+
+#containerbody2 mark button:nth-child(2) { 
+     left: 945px;
+}
+#containerbody2 mark nav { 
+    font-size: 10px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    border-radius: 60px;
+    border: transparent;
+    background-color: rgb(255, 255, 255);
+    left: 930px;
+    top: 371px;
+}
+
+#imagencontainer section:nth-child(2) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 135px;
+    width: 13%;
+    position: absolute;
+    top: 459px;
+}
+#containerbody2 div:nth-child(5) { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 37px;
+    margin-top: 30px;
+}
+h6 button {
+    border-color: transparent;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    width: 830px;
+    text-align: left;
+    margin-top: -20px;
+}
+#containerbody2 div:nth-child(7) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter; 
+    width: 800px;
+    margin-top: -23px;
+    margin-left: 7px;
+    text-align: left;
+    font-size: large;
+}
+#containerbody2 div:nth-child(8) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#containerbody2 ul li:nth-child(4) { 
+    top: 588px;
+    left: 225px;
+}
+
+#containerbody2 ul li:nth-child(5) { 
+    top: 586px;
+    left: 345px;
+    background-color: rgba(212, 209, 209, 0.397);
+    border: solid;
+    border-radius: 25px;
+    border-color: transparent;
+}
+
+#containerbody2 ul li:nth-child(6) { 
+    top: 588px;
+    left: 520px;
+}
+
+#containerbody2 mark button:nth-child(4) { 
+    font-size: 20px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    border: transparent;
+    background-color: transparent;
+    left: 915px;
+    top: 588px;
+}
+
+#containerbody2 mark button:nth-child(5) { 
+     left: 945px;
+     top: 588px;
+}
+#containerbody2 mark nav:nth-child(6) { 
+    font-size: 10px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    border-radius: 60px;
+    border: transparent;
+    background-color: rgb(255, 255, 255);
+    left: 930px;
+    top: 588px;
+}
+
+#imagencontainer section:nth-child(3) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 135px;
+    width: 13%;
+    position: absolute;
+    top: 687px;
+}
+
+#containerbody2 div:nth-child(9) { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 37px;
+    margin-top: 44px;
+    margin-bottom: 5px;
+}
+
+h7 button {
+    border-color: transparent;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    width: 830px;
+    text-align: left;
+}
+
+#containerbody2 div:nth-child(11) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter; 
+    width: 800px;
+    margin-left: 7px;
+    text-align: left;
+    font-size: large;
+}
+#containerbody2 div:nth-child(12) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+}
+#containerbody2 ul li:nth-child(7) { 
+    top: 815px;
+    left: 225px;
+}
+
+#containerbody2 ul li:nth-child(8) { 
+    top: 813px;
+    left: 340px;
+    background-color: rgba(212, 209, 209, 0.397);
+    border: solid;
+    border-radius: 25px;
+    border-color: transparent;
+}
+
+#containerbody2 ul li:nth-child(9) { 
+    top: 815px;
+    left: 420px;
+}
+
+#containerbody2 mark button:nth-child(7) { 
+    font-size: 20px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    border: transparent;
+    background-color: transparent;
+    left: 915px;
+    top: 815px;
+}
+
+#containerbody2 mark button:nth-child(8) { 
+     left: 945px;
+     top: 815px;
+}
+#containerbody2 mark nav:nth-child(9) { 
+    font-size: 10px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: absolute;
+    border-radius: 60px;
+    border: transparent;
+    background-color: rgb(255, 255, 255);
+    left: 930px;
+    top: 815px;
+}
+
+#foot {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: last baseline;
+    align-content: stretch;
+    gap: 12px;
+    margin-top: -160px;
+    padding-right: 105px;
+}
+
+#foot h8 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    margin-left: 1380px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.747);
+    padding-top: 57px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+#foot div:nth-child(2) {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 40px;
+    gap: 10px;
+}
+
+#foot div span:first-child { 
+    color: rgb(91, 92, 92);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+#foot div:nth-child(3) button:first-child {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.911);
+    font-weight: bolder;
+    border: transparent;
+    border-color: transparent;
+    background-color: transparent;
+    width: 400px;
+    text-align: left;
+    margin-left: -5px;
+}
+
+#foot div:nth-child(4) {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#foot ul li:first-child {
+    margin-top: -45px;
+    margin-left: 70px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#foot div:nth-child(6) {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 32px;
+    margin-top: -27px;
+}
+
+#foot div:nth-child(7) {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    margin-left: 1380px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.89);
+    font-weight: bolder;
+    margin-bottom: 10px;
+    padding-bottom: -15px;
+}
+
+#foot div:nth-child(8) {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#imagencontainerfoot section:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 135px;
+    width: 13%;
+    position: absolute;
+    left: 996px;
+    bottom: -100px;
+}
+
+#foot2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: first baseline;
+    align-items: flex-start;
+    margin-left: 130px;
+    margin-top: -325px;
+    position: absolute;
+    gap: 5px;
+}
+
+h9 button {
+    border-color: transparent;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    width: 830px;
+    text-align: left;
+    margin-bottom: -10px;
+}
+
+#foot2 div span:first-child { 
+    color: rgb(91, 92, 92);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+#foot2 div:first-child { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 37px;
+    margin-bottom: 5px;
+}
+
+#foot2 div:nth-child(3) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter; 
+    width: 800px;
+    text-align: left;
+    font-size: large;
+    padding-bottom: 38px;
+    margin-left: 10px;
+}
+
+#foot2 div:nth-child(4) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    margin-left: 10px;
+    margin-bottom: 60px;
+}
+
+#foot2 ul li { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    position: absolute;
+}
+
+#foot2 ul li:first-child { 
+    left: 85px;
+    top: 127px;
+}
+
+#foot2 ul li:nth-child(2) { 
+    top: 124px;
+    left: 205px;
+    background-color: rgba(212, 209, 209, 0.397);
+    border: solid;
+    border-radius: 25px;
+    border-color: transparent;
+}
+
+#foot2 ul li:nth-child(3) { 
+    top: 127px;
+    left: 285px;
+}
+
+#imagencontainerfoot section:nth-child(2) {
+    object-fit: contain;
+    overflow: hidden;
+    height: 135px;
+    width: 13%;
+    position: absolute;
+    left: 996px;
+    bottom: -330px;
+}
+
+h10 button {
+    border-color: transparent;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    width: 830px;
+    text-align: left;
+    margin-bottom: -60px;
+}
+
+#foot2 div:nth-child(5) { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 37px;
+    padding-top: 30px;
+}
+
+#foot2 div:nth-child(7) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 13px;
+    color: rgba(133, 130, 130, 0.966);
+    font-weight: lighter; 
+    width: 800px;
+    text-align: left;
+    font-size: large;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+
+#foot2 div:nth-child(8) { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    font-size: 16px;
+    color: rgba(116, 113, 113, 0.966);
+    font-weight: lighter;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+#foot2 ul li:nth-child(4){ 
+    left: 77px;
+    top: 357px;
+}
+
+#foot2 ul li:nth-child(5) { 
+    top: 355px;
+    left: 195px;
+    background-color: rgba(212, 209, 209, 0.397);
+    border: solid;
+    border-radius: 25px;
+    border-color: transparent;
+}
+
+#foot2 ul li:nth-child(6) { 
+    top: 357px;
+    left: 270px;
+}
+
+#foot2 mark button { 
+    font-size: 20px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    position: absolute;
+    border: transparent;
+    background-color: transparent;
+    right: 20px;
+    top: 130px;
+}
+
+#foot2 mark button:nth-child(2) { 
+    top: 130px;
+    right: -10px;   
+}
+
+#foot2 mark nav { 
+    font-size: 10px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 800px;
+    margin-top: -290px;
+    position: absolute;
+    border-radius: 60px;
+    border: transparent;
+    background-color: rgb(255, 255, 255);
+}
+
+#foot2 mark button:nth-child(4) { 
+    font-size: 20px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    position: absolute;
+    border: transparent;
+    background-color: transparent;
+    right: 20px;
+    top: 360px;
+}
+
+#foot2 mark button:nth-child(5) { 
+    top: 360px;
+    right: -10px;   
+}
+
+#foot2 mark nav:nth-child(6) { 
+    font-size: 10px;
+    color: rgba(20, 20, 20, 0.966);
+    font-weight: lighter;
+    margin-left: 800px;
+    margin-top: -60px;
+    position: absolute;
+    border-radius: 60px;
+    border: transparent;
+    background-color: rgb(255, 255, 255);
+}
+
+#imagencontainer section:nth-child(4) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 17px;
+    width: 13%;
+    position: absolute;
+    top: 220px;
+    left: 33px;
+    border-radius: 50px;
+}
+
+#imagencontainer section:nth-child(5) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 19px;
+    width: 13%;
+    position: absolute;
+    top: 455px;
+    left: 33px;
+}
+
+#imagencontainer section:nth-child(6) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    top: 680px;
+    left: 145px;
+    border-radius: 200px;
+    border: transparent;
+}
+
+#imagencontainerfoot section:nth-child(3) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    bottom: -1px;
+    left: 141px;
+    border-radius: 300px;
+    border: transparent;
+}
+
+#imagencontainerfoot section:nth-child(4) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 27px;
+    width: 27px;
+    position: absolute;
+    bottom: -240px;
+    left: 145px;
+    border-radius: 12px;
+    border: transparent;
+}
+
+#imagencontainerfoot section:nth-child(5) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 22px;
+    width: 25px;
+    position: absolute;
+    bottom: -180px;
+    right: 484px;
+    border-radius: 100px;
+    border: transparent;
+}
+
+#imagencontainerfoot section:nth-child(6) img:first-child {
+    object-fit: contain;
+    overflow: hidden;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: -47px;
+    right: 474px;
+    border-radius: 100px;
+    border: transparent;
+}
+
+#foot2 p button { 
+    left: 1250px;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-size: 18px;
+    color: rgba(26, 173, 51, 0.966);
+    text-align: left;
+    border: transparent;
+    background-color: transparent;
+    width: 500px;
+    top: 310px;
+}
+
+#containerbottom div{
+    display: flex;
+    gap: 10px;
+    color: rgba(116, 113, 113, 0.966);
+    position: absolute;
+    left: 1590px;
+    bottom: -390px;
+}
+
+#containerbottom div:first-child{
+    margin-left: -200px;
+    margin-top: 17px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-style: unset;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#containerbottom div:nth-child(2){
+    margin-left: -187px;
+    margin-top: 17px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+}
+
+#containerbottom div:nth-child(3){
+    margin-left: -80px;
+    margin-top: 17px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+}
+
+#containerbottom div:nth-child(4){
+    margin-left: -3px;
+    margin-top: 17px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+}
+
+#containerbottom div:nth-child(5){
+    margin-top: -12px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+    left: 1645px;
+}
+
+#containerbottom div:nth-child(6) {
+    left: 1358px;
+    bottom: -417px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+}
+
+#containerbottom div:nth-child(7){
+    left: 85px;
+    bottom: -427px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+}
+
+#containerbottom div:nth-child(8){
+    left: 1532px;
+    bottom: -417px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    font-weight: lighter;
+}
+
+#foot2 div:nth-child(12){
+   color: rgb(245, 245, 239);
+   background-color: rgb(99, 96, 96);
+   border: solid;
+   border-color: transparent;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   position: absolute;
+   top: -700px;
+   right: 159px;
+   width: 105px;
+   font-size: 15px;
+   height: 17px;
+   text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
